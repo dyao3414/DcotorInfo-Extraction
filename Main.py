@@ -1,5 +1,6 @@
 
-
+from Get import *
+from Get_doctor_info import *
 
 
 if __name__=="__main__":
