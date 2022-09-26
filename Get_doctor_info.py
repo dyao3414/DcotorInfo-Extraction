@@ -10,6 +10,7 @@ from turtle import title
 import requests
 from pyquery import PyQuery as pq
 
+
 requests.packages.urllib3.disable_warnings()
 import time
 import lxml
